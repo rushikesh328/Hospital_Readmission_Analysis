@@ -61,7 +61,7 @@ Medical conditions such as Heart Failure and COPD show consistent patterns, whil
 State-Level Performance:  
 Some states show slightly higher average ratios, while others perform closer to or better than expected.
 
-Geographic Map:  
+Geographic Map (Refer the "images" folder for the map, it doesn't appear on GitHub):  
 A choropleth map highlights moderate regional differences in readmission performance across the country.
 
 ---
