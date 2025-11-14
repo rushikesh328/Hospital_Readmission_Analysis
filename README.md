@@ -117,28 +117,12 @@ The models still captured useful patterns. Hospitals with higher volume and cert
 
 More complete predictive modeling would require patient-level data, comorbidity scores, severity indices, and socioeconomic measures.
 
----
-
-## 7. Project Structure
-├── data/
-│ ├── FY_2025_Hospital_Readmissions...csv
-│ └── hospital_readmission_clean.csv
-├── 01_data_cleaning.ipynb
-├── 02_eda.ipynb
-├── 03_modeling.ipynb
-└── README.md
-
 
 ---
 
-## 8. Conclusion
+## 7. Conclusion
 This project provides an end-to-end analysis of real CMS hospital readmission data. After performing data cleaning, EDA, modeling, and interpretation, the results show that administrative features alone offer limited predictive power. However, the project demonstrates clear patterns related to clinical condition type, hospital volume, and geographic factors.
 
 The project establishes a strong foundation for healthcare analytics and highlights the need for richer datasets to build stronger predictive models.
 
 ---
-
-## Author
-Rushikesh Shinde  
-Syracuse University  
-Master of Science in Information Systems
